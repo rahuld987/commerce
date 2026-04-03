@@ -2,7 +2,6 @@ import React, { useEffect, useState, useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Logo from "./images/logo.png";
 import { CartContext } from "../pages/CartContext";
-import cart from "./images/cart.png";
 import "./css/global.css";
 // import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 
